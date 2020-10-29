@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	layout: new layout
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
